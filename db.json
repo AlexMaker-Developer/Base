@@ -1,0 +1,16 @@
+{
+  "Contactos": [
+  {
+    "id": 1,
+    "Nombre": "Juan",
+    "Apellidos": "Solis",
+    "Telefono": "654971235"
+   },
+   {
+    "id": 2,
+    "Nombre": "Ernesto",
+    "Apellidos": "Valencia",
+    "Telefono": "312647892"
+    }
+  ]
+}
